@@ -59,5 +59,5 @@ public class LatihanBulan {
                 System.out.println("Error: Angka bulan tidak valid (1-12)");
                 break;
         }
-    }
+    }   
 }
