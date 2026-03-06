@@ -30,7 +30,7 @@ class Persegi{
     }
 }
 
-public class LatihanPersegiConstuctor {
+public class LatihanPersegiConstructor {
     public static void main(String[] args) {
         Persegi persegi1 = new Persegi(5);
         persegi1.tampilkanHasil();
