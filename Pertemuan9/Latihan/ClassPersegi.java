@@ -25,7 +25,6 @@ class Persegi{
         System.out.println("Keliling: " + keliling + " cm");
     }
 }
-
 public class ClassPersegi {
     public static void main(String[] args) {
         Persegi persegi1 = new Persegi();
